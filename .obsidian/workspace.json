@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "d69b8cd68be2f154",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7332c530e262213",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adedb22446811681",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "물리학과 연구실.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc9b87bec994e7ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제안서.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44d645fca71fdc86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Direct generation of protein conformational ensembles via machine learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81ba010af5f01068",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Papers/Direct generation of protein conformational ensembles via machine learning.pdf"
+              }
+            }
+          },
+          {
+            "id": "76fa86a57e984719",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Papers/Protein structure generation via folding.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10bafe7d48205dbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "521fb6437821f364",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4bb6e5d77eef952",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed250fda7139efdf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94092247a7d8a796",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba1d3d202b512232",
+    "type": "split",
+    "children": [
+      {
+        "id": "235d9ec87a7d0d5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcf00f04bb815f74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "제안서.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc3093002e74a428",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "제안서.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa33691bec2ac45b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4c390f71f4817804",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "제안서.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bc9b87bec994e7ce",
+  "lastOpenFiles": [
+    "Direct generation of protein conformational ensembles via machine learning.md",
+    "Papers",
+    "제안서.md",
+    "물리학과 연구실.md",
+    "attachments/3KPyfT.gif",
+    "attachments/Pasted image 20240315154335.png",
+    "attachments/Pasted image 20240315154207.png",
+    "attachments/Pasted image 20240315153909.png",
+    "attachments/Pasted image 20240315153725.png",
+    "attachments/Pasted image 20240315153648.png",
+    "attachments",
+    "Papers/Direct generation of protein conformational ensembles via machine learning.pdf",
+    "Papers/Protein structure generation via folding.pdf",
+    "양식/졸업평가_지침_전문_개정안(2023.02.27).pdf",
+    "주요 일정.md",
+    "Pasted image 20240315154335.png",
+    "Pasted image 20240315154207.png",
+    "3KPyfT.gif",
+    "3KPyfT.gif.crdownload",
+    "Pasted image 20240315153909.png",
+    "양식/연구논문작품 중간보고서.hwp",
+    "양식/붙임2._소프트웨어학과_및_컴퓨터공학과_학사과정_졸업평가_지침_전문_개정안(2023.02.27).pdf",
+    "양식/소프트웨어대학_연구논문작품_제안서.hwp",
+    "양식/연구논문작품_서약서 2.hwp",
+    "Welcome.md"
+  ]
+}
